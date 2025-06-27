@@ -1,0 +1,15 @@
+﻿# Ignore Visual Studio folders
+.vs/
+*.vsidx
+*.suo
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache
+*.pyc
+__pycache__/
+
+# Ignore temp Office files
+~$*.docx
